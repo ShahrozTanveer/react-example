@@ -1,5 +1,6 @@
 # react-example
 * Its simple SPA in React example.
+* [Live Demo](https://react-spa-example.netlify.app/)
 
 Please consider following this project's author, [Sharoz Tanveer](https://github.com/ShahrozTanveer), and consider starring the project to show your :heart: and support.
 

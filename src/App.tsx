@@ -48,7 +48,7 @@ function App() {
                   setContact(true);
                 }}
               >
-                Conact
+                Contact
               </Button>
             </Nav>
             <Button
